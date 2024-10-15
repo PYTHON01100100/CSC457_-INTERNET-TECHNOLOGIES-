@@ -1,0 +1,12 @@
+body {
+  background-color: yellow
+}
+
+p.red {
+  font-size: 24pt;
+  color: red
+}
+
+p.center {
+  text-align: center;
+}
