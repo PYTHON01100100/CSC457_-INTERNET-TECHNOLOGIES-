@@ -46,3 +46,40 @@ B- a set of database record for retreiving query
 
 # ------------
 
+what is primary role of mirrored servers?
+A- enhance web security
+B- reduce maintenance cost
+C- enhance availability & reliability 
+D- all of the above
+Answer C
+
+2- what is a key characteristic of virtual servers
+Answer) Sharing physical hardware to other virtual servers
+
+
+3- What is the primary role of a helper application in a web browser?
+A- enhancing web browser look and feel 
+B- providing additional security layer
+C- handling and displaying specific file type or content
+D- managing internet connectivity settings 
+Answer C
+
+4- what are main three attached to DOM
+Answer) Properties, methods, events 
+
+5- what a dynamic web page , and how can we use it ? 
+Answer) Crated at run time, on the fly to interact with the visitor 
+
+6- what is the common technique for making website dynamic
+Answer) Using javascript 
+
+7- Write a .NET webservice to add 2 numbers and return the result. Show the webservice extension file name and the attributes being used. The domain name to host the websirvice is : www.abcd.com and the directory is mywebservice
+
+8- what is the protocol for communication to web services 
+Answer) SOAP ()
+
+9- what is the record set for Ado 
+Answer) a set of database record for retrieving query
+
+10- Write an HTML code using an ASP script to display a dropdown list has three options ( display hello word, redirect to Yahoo.com, and redirect to
+ Google.com) . Show all file names and their extensions
